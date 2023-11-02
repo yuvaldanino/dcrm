@@ -1,3 +1,5 @@
+# file that makes the new database 
+
 import mysql.connector
 
 #shows  version of mysql connector 
