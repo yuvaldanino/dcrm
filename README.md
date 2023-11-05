@@ -22,7 +22,7 @@ This customer management system is a web-based application designed to simplify 
 - ## Real-Time Data Updates:
 -   Any additions, deletions, or modifications to customer records through the UI are immediately reflected in the database, ensuring data consistency and accuracy.
 
-##Technologies Used:
+## Technologies Used:
 
 - Framework: Django (Python)
 - Programming Language: Python
