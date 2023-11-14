@@ -3,6 +3,7 @@
 This customer management system is a web-based application designed to simplify the process of customer information storage and retrieval. Developed using Python and the Django framework, it offers a secure and intuitive interface for managing customer data.
 
 ## Key Features:
+![dcrm](https://github.com/yuvaldanino/dcrm/assets/118403576/7f9a134b-5a09-4d66-a1b9-e1501279f89f)
 
 - ## Secure User Authentication:
 -   Utilizes Django's built-in authentication mechanisms to handle user login and logout, providing a secure access layer to customer records.
